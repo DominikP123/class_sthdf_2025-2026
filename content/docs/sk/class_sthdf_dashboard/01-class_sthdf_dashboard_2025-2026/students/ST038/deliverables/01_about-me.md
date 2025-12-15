@@ -1,8 +1,12 @@
 ---
 fm_version: 1.0.1
 fm_build: '2025-11-24T15:50:07.130106+00:00'
+title: ID generuje CLI / skript
 fm_version_comment: ''
+locale: sk
+---
 
+-----------------------------------------------------
 
 # ID generuje CLI / skript
 
@@ -122,38 +126,27 @@ origin_import_date: ""
 
 fm_reserved1: ""
 fm_reserved2: ""
-
 ---
 
+<!-- STHDF_INSTANCE_ID: 2025_ST_038 -->
 
 🙋 About Me
-
 ## 🔖 Základné informácie
-
-- Meno a priezvisko
-- Študentský GitHub profil (link)
-- Kontaktný e-mail
-
+- Meno a priezvisko 
+- Študentský GitHub profil (link) 
+- Kontaktný e-mail 
 ## 🎯 Profesijné záujmy
-
-- Oblasti, ktoré ma bavia (IT, dizajn, podnikanie, …)
-  
-- Aké skúsenosti by som chcel získať
-  
+- Oblasti, ktoré ma bavia (IT, dizajn, podnikanie, …) 
+- Aké skúsenosti by som chcel získať 
 ## 💡 Moje hobby / záujmy
-
-- Šport, hudba, varenie, cestovanie …
-- Čokoľvek, čo odhaľuje „ľudskú stránku“
-  
+- Šport, hudba, varenie, cestovanie … 
+- Čokoľvek, čo odhaľuje „ľudskú stránku“ 
 ## 🚀 Očakávania od predmetu
-
-- Čo chcem dosiahnuť v rámci kurzu
-- Čo očakávam od spolupráce s tímom a komunitou
-  
+- Čo chcem dosiahnuť v rámci kurzu 
+- Čo očakávam od spolupráce s tímom a komunitou 
 ## 🚀 Čo viem ponúknuť
-
-- Čo chcem ponúknuť v rámci kurzu
+- Čo chcem ponúknuť v rámci kurzu 
 
 ## Navigácia
-
 - [↩️ Späť](../index.md)
+
